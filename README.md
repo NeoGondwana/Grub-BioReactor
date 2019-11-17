@@ -1,5 +1,13 @@
-## Recreating a dinosaur like Animal 
-This is how to make a dino chicken
+## Expanding the grubs possible feedstock
+
+Black soldier fly larvae are spectacular animals- they eat almsot any organic waste, from feces to food waste to meat to vegetable matter.
+We wish to use this ability to decompose two new kinds of waste:
+
+1. Ligno-Cellulose
+2. PLastics and Hydrocarbons
+
+
+The first step is to make the grubs larger
 
 1. ## <details><summary>Overview of process</summary>
 <p>https://github.com/NeoGondwana/DinoChicken/blob/master/Methods/Overview</p>
